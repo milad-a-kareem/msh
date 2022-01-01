@@ -1,12 +1,12 @@
 {
-  "name": "app",
-  "short_name": "app",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Mi Smart Home",
+  "short_name": "MSH",
+  "theme_color": "#F0A500",
+  "background_color": "#F4F4F4",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
-  "icons": [
+  "icons":[
     {
       "src": "assets/icons/icon-72x72.png",
       "sizes": "72x72",
@@ -55,5 +55,5 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+    ]
 }
