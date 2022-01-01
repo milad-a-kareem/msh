@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641001652612,
+  "timestamp": 1641002899661,
   "index": "/msh/index.html",
   "assetGroups": [
     {
@@ -47,7 +47,7 @@
         "/msh/6607.c8b538297f0447e8.js",
         "/msh/663.d5224929d690844c.js",
         "/msh/7014.619903d9e0f84772.js",
-        "/msh/7062.55432df2108c56f2.js",
+        "/msh/7062.f482b4b885ef1c23.js",
         "/msh/7245.ea121ac68af3d697.js",
         "/msh/7446.de799bd2ee5ebc8d.js",
         "/msh/7572.337a3c5bb6a29f97.js",
@@ -55,7 +55,7 @@
         "/msh/7957.49a5f18ab411c5b9.js",
         "/msh/8113.32f11fa7837722ee.js",
         "/msh/8739.23eb38a8f2a0d2f9.js",
-        "/msh/8762.2a341eeb5e6569ce.js",
+        "/msh/8762.df07e9995142ac99.js",
         "/msh/8953.cf95f976242a3546.js",
         "/msh/8954.78d3f05f7c2e8ebd.js",
         "/msh/9009.495e8c40d82826c2.js",
@@ -68,12 +68,12 @@
         "/msh/9954.c51edc390be3307f.js",
         "/msh/common.69681e4c28281ce5.js",
         "/msh/index.html",
-        "/msh/main.bd0a17fefb66bee0.js",
+        "/msh/main.62c0b933764494f9.js",
         "/msh/manifest.webmanifest",
         "/msh/polyfills-core-js.752bb3bf720b0d4e.js",
         "/msh/polyfills-dom.85ccaec7aac60b80.js",
         "/msh/polyfills.399b2c612e14986c.js",
-        "/msh/runtime.3bc235500437d526.js",
+        "/msh/runtime.6be4624a30e15342.js",
         "/msh/styles.c3d67037bba31137.css"
       ],
       "patterns": []
@@ -100,7 +100,8 @@
         "/msh/assets/icons/icon-48x48.png",
         "/msh/assets/icons/icon-512x512.png",
         "/msh/assets/icons/icon-72x72.png",
-        "/msh/assets/icons/icon-96x96.png"
+        "/msh/assets/icons/icon-96x96.png",
+        "/msh/assets/smart-home.svg"
       ],
       "patterns": []
     }
@@ -143,7 +144,7 @@
     "/msh/6607.c8b538297f0447e8.js": "edc12e1ee0087503190b444f513a113469519107",
     "/msh/663.d5224929d690844c.js": "e5cb5ccc2ebef52449a273a6d053d3692d3cd259",
     "/msh/7014.619903d9e0f84772.js": "944562a07d206d6a631403e3cdd3d5e7d94fd843",
-    "/msh/7062.55432df2108c56f2.js": "6f09d7548fd1fa3ebe979c65613b980bc293d76b",
+    "/msh/7062.f482b4b885ef1c23.js": "039ee12ff057df2ad4f3e40fef88a4c06db26979",
     "/msh/7245.ea121ac68af3d697.js": "0e6ec8178a0cd4a3a2072693ec95b3c757abae81",
     "/msh/7446.de799bd2ee5ebc8d.js": "94367101c08b8df6afa9a7bbd7ff9b6832e6a957",
     "/msh/7572.337a3c5bb6a29f97.js": "a5f12d3132f38137252f4abd8a0aeebc5f06797a",
@@ -151,7 +152,7 @@
     "/msh/7957.49a5f18ab411c5b9.js": "7dbad6be79cb212b57f25f639d79f9ba01e6af32",
     "/msh/8113.32f11fa7837722ee.js": "b99385f1f411cf3a3c8ed16e859f6c1961afbe2b",
     "/msh/8739.23eb38a8f2a0d2f9.js": "383a688d429059b9b7db96001dc3fbef368eb950",
-    "/msh/8762.2a341eeb5e6569ce.js": "120e3198ab65e2a74c155810b5f7888562d1ab8a",
+    "/msh/8762.df07e9995142ac99.js": "6541df4c79659e3bad7adf548b1b1e4d073545d7",
     "/msh/8953.cf95f976242a3546.js": "0cb72795ace3704bff35a42a870efd221371398c",
     "/msh/8954.78d3f05f7c2e8ebd.js": "9bf569e19f7b49588d32e79084313e639fd74ed4",
     "/msh/9009.495e8c40d82826c2.js": "650c6b4be2b7f003db7d8e6ec82c36de86fbf65c",
@@ -177,14 +178,15 @@
     "/msh/assets/icons/icon-512x512.png": "2997ae1bc5acb9ec01390bae2ebaab9107e663ef",
     "/msh/assets/icons/icon-72x72.png": "b36ede9d71573c3b319a9c513f6ea8f2be7cd119",
     "/msh/assets/icons/icon-96x96.png": "1e3556551f49674c4dd2ba56723eb705dcd9aeab",
+    "/msh/assets/smart-home.svg": "19754ee3450ea4a0a36a2b6dc45a0205178fe2af",
     "/msh/common.69681e4c28281ce5.js": "37166bafa22819f10004a47b12dc471d5206c43c",
-    "/msh/index.html": "127de6d9ab750e713590b580bad0c971b02c764e",
-    "/msh/main.bd0a17fefb66bee0.js": "fbdaf9108513b75f51eca1b2c1d438699ecbc58b",
+    "/msh/index.html": "5774920c21abf0371a7f9dd251983c3e615d8fc7",
+    "/msh/main.62c0b933764494f9.js": "1825c59e5349d2e1f22606443fb5384d7bf59cd3",
     "/msh/manifest.webmanifest": "7d9a936d46a7a1b40aa13874ce9367c682207969",
     "/msh/polyfills-core-js.752bb3bf720b0d4e.js": "8a7627a0b86d3ce2e95a66a1f5f2df3b18efd656",
     "/msh/polyfills-dom.85ccaec7aac60b80.js": "29b192056902ba0ae392d4b3333a89a952e2147f",
     "/msh/polyfills.399b2c612e14986c.js": "1b16bd292964217572607b9106bc9e252594efec",
-    "/msh/runtime.3bc235500437d526.js": "da57e82304e45aca67fcf7417bc61775183262fe",
+    "/msh/runtime.6be4624a30e15342.js": "2ff4745f71b804135ad312efb979292caf85e5ec",
     "/msh/styles.c3d67037bba31137.css": "09aa02dcd48066f920f64ceea4464ae94330c77e"
   },
   "navigationUrls": [
